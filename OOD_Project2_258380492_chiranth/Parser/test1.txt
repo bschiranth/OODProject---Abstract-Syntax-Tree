@@ -1,0 +1,34 @@
+
+#include<iostream>
+
+
+void main()
+{
+for(int i=0;i<10;i++)
+  {
+	while(i!=2) 
+       {
+std::cout<<"This is a line";
+       }
+   }
+}
+
+class myClass{
+public:
+int func1(int a)
+{
+if(a!=6) {std::cout<<"something";}
+else {std::cout<<"something else";}
+}
+
+void show()
+{
+int r=5;
+size_t k=4;
+}
+
+int count(int f) 
+{
+ f=[](arg){};
+}
+};

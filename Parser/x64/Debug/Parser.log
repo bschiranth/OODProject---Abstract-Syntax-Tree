@@ -1,0 +1,28 @@
+﻿Build started 01-07-16 14:08:01.
+     1>Project "D:\SU\Semester II\OOD\Projects\2\Parser\Parser.vcxproj" on node 3 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D zTEST_PARSER /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\Parser.pdb" /Gd /TP /errorReport:prompt "..\FileSystem-Windows\FileSystemDemo\FileSystem.cpp" ..\ScopeStack\ScopeStack.cpp ..\SemiExp\SemiExp.cpp ..\Tokenizer\Tokenizer.cpp ..\Utilities\Utilities.cpp ActionsAndRules.cpp ConfigureParser.cpp Parser.cpp
+         Parser.cpp
+         ConfigureParser.cpp
+         ActionsAndRules.cpp
+         Utilities.cpp
+         Tokenizer.cpp
+         SemiExp.cpp
+         ScopeStack.cpp
+         FileSystem.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\Lib.exe /OUT:"D:\SU\Semester II\OOD\Projects\2\x64\Debug\Parser.lib" /NOLOGO /MACHINE:X64 x64\Debug\FileSystem.obj
+         x64\Debug\ScopeStack.obj
+         x64\Debug\SemiExp.obj
+         x64\Debug\Tokenizer.obj
+         x64\Debug\Utilities.obj
+         x64\Debug\ActionsAndRules.obj
+         x64\Debug\ConfigureParser.obj
+         x64\Debug\Parser.obj
+         Parser.vcxproj -> D:\SU\Semester II\OOD\Projects\2\x64\Debug\Parser.lib
+     1>Done Building Project "D:\SU\Semester II\OOD\Projects\2\Parser\Parser.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.18

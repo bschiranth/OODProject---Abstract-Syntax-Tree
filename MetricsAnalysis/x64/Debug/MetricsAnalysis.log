@@ -1,0 +1,13 @@
+﻿Build started 01-07-16 14:08:07.
+     1>Project "D:\SU\Semester II\OOD\Projects\2\MetricsAnalysis\MetricsAnalysis.vcxproj" on node 5 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D zTEST_METRICANALYSIS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\MetricsAnalysis.pdb" /Gd /TP /errorReport:prompt metricAnalysis.cpp
+         metricAnalysis.cpp
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\Lib.exe /OUT:"D:\SU\Semester II\OOD\Projects\2\x64\Debug\MetricsAnalysis.lib" /NOLOGO /MACHINE:X64 x64\Debug\metricAnalysis.obj
+         MetricsAnalysis.vcxproj -> D:\SU\Semester II\OOD\Projects\2\x64\Debug\MetricsAnalysis.lib
+     1>Done Building Project "D:\SU\Semester II\OOD\Projects\2\MetricsAnalysis\MetricsAnalysis.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.63
